@@ -10,7 +10,7 @@ namespace DoAnQLKaraokeDAO
 {
     class DataProvider
     {
-        static string strKetNoi = @"Data Source =DESKTOP-20TAQ02\SQLEXPRESS; Initial Catalog = csdl; Integrated Security = true;";
+        static string strKetNoi = @"Data Source  = csdl; Initial Catalog = csdl; Integrated Security = true;";
 
         public static SqlConnection TaoKetNoi()
         {

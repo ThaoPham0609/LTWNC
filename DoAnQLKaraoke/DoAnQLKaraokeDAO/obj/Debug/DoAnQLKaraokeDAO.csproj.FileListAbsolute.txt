@@ -5,3 +5,10 @@ G:\DoAnLTWNC\DoAnQLKaraoke\DoAnQLKaraokeDAO\bin\Debug\DoAnQLKaraokeDTO.pdb
 G:\DoAnLTWNC\DoAnQLKaraoke\DoAnQLKaraokeDAO\obj\Debug\DoAnQLKaraokeDAO.csprojResolveAssemblyReference.cache
 G:\DoAnLTWNC\DoAnQLKaraoke\DoAnQLKaraokeDAO\obj\Debug\DoAnQLKaraokeDAO.dll
 G:\DoAnLTWNC\DoAnQLKaraoke\DoAnQLKaraokeDAO\obj\Debug\DoAnQLKaraokeDAO.pdb
+E:\LTWNC\DoAnQLKaraoke\DoAnQLKaraokeDAO\bin\Debug\DoAnQLKaraokeDAO.dll
+E:\LTWNC\DoAnQLKaraoke\DoAnQLKaraokeDAO\bin\Debug\DoAnQLKaraokeDAO.pdb
+E:\LTWNC\DoAnQLKaraoke\DoAnQLKaraokeDAO\bin\Debug\DoAnQLKaraokeDTO.dll
+E:\LTWNC\DoAnQLKaraoke\DoAnQLKaraokeDAO\bin\Debug\DoAnQLKaraokeDTO.pdb
+E:\LTWNC\DoAnQLKaraoke\DoAnQLKaraokeDAO\obj\Debug\DoAnQLKaraokeDAO.csprojResolveAssemblyReference.cache
+E:\LTWNC\DoAnQLKaraoke\DoAnQLKaraokeDAO\obj\Debug\DoAnQLKaraokeDAO.dll
+E:\LTWNC\DoAnQLKaraoke\DoAnQLKaraokeDAO\obj\Debug\DoAnQLKaraokeDAO.pdb

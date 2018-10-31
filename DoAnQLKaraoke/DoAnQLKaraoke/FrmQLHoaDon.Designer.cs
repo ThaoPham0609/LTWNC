@@ -1,6 +1,6 @@
 ﻿namespace DoAnQLKaraoke
 {
-    partial class FormQLHoaDon
+    partial class FrmQLHoaDon
     {
         /// <summary>
         /// Required designer variable.
