@@ -22,3 +22,6 @@ G:\DoAnLTWNC\DoAnQLKaraoke\DoAnQLKaraoke\obj\Debug\DoAnQLKaraoke.FrmBaoCao.resou
 G:\DoAnLTWNC\DoAnQLKaraoke\DoAnQLKaraoke\obj\Debug\RdlCompile.cache
 G:\DoAnLTWNC\DoAnQLKaraoke\DoAnQLKaraoke\obj\Debug\RdlCompile.compiled
 G:\DoAnLTWNC\DoAnQLKaraoke\DoAnQLKaraoke\obj\Debug\DoAnQLKaraoke.FrmQLLoaiNhanVien.resources
+E:\LTWNC\DoAnQLKaraoke\DoAnQLKaraoke\bin\Debug\DoAnQLKaraoke.exe.config
+E:\LTWNC\DoAnQLKaraoke\DoAnQLKaraoke\obj\Debug\DoAnQLKaraoke.exe
+E:\LTWNC\DoAnQLKaraoke\DoAnQLKaraoke\obj\Debug\DoAnQLKaraoke.pdb
