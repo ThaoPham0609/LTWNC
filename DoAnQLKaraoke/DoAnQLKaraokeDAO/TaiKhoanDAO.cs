@@ -11,7 +11,7 @@ namespace DoAnQLKaraokeDAO
 {
     public class TaiKhoanDAO
     {
-        string chuoiketnoi = @"Data Source =DESKTOP-20TAQ02\SQLEXPRESS;Initial Catalog = csdlDAKARAOKE;Integrated Sucurity = True;";
+        static string strKetNoi = @"Data Source = .; Initial Catalog = csdl; Integrated Security = true;";
         public List<TaiKhoanDTO> dsTaiKhoan()
         {
 
@@ -35,5 +35,6 @@ namespace DoAnQLKaraokeDAO
             }
             return ds;
         }
+
     }
 }
