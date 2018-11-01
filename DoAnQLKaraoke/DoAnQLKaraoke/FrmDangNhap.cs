@@ -28,9 +28,17 @@ namespace DoAnQLKaraoke
         {
             TaiKhoanBUS taikhoan = new TaiKhoanBUS();
             FrmChinh main = new FrmChinh();
-            main.nvDangNhap = taikhoan.LayThongTinTaiKhoan(txtTaiKhoan.Text, txtMatKhau.Text);
+            main.nvDangNhap = taikhoan.LayThongTinTaiKhoan(txtTaiKhoan.Text.Trim(), txtMatKhau.Text.Trim());
             main.isDangNhap = true;
-            MessageBox.Show("Đăng nhập thành công");
+            if (main.nvDangNhap != null)
+            {
+                this.Close();
+               
+            }
+            else
+            {
+                MessageBox.Show("Đăng nhập thất bại");
+            }
         }
     }
 }

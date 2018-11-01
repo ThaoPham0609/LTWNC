@@ -1,10 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 using DoAnQLKaraokeDAO;
 using DoAnQLKaraokeDTO;
+using System.Windows.Forms;
 
 namespace DoAnQLKaraokeBUS
 {
@@ -17,10 +22,10 @@ namespace DoAnQLKaraokeBUS
         }
         public TaiKhoanDTO LayThongTinTaiKhoan(string taikhoan,string matkhau)
         {
-            TaiKhoanDTO tk = new TaiKhoanDTO();
+          
             TaiKhoanDAO b = new TaiKhoanDAO();
             List<TaiKhoanDTO> dstk =  b.dsTaiKhoan();
-            tk = dstk.Find(o => o.TAIKHOAN == taikhoan.Trim() && o.MATKHAU == matkhau.Trim());
+            TaiKhoanDTO tk = dstk.Find(o => o.TAIKHOAN.Trim() == taikhoan && o.MATKHAU.Trim() == matkhau);
             return tk;
         }
     }

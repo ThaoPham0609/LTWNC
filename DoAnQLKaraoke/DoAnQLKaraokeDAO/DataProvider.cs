@@ -5,17 +5,19 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data;
 using System.Data.SqlClient;
+using System.Windows.Forms;
 
 namespace DoAnQLKaraokeDAO
 {
     class DataProvider
     {
-        static string strKetNoi = @"Data Source  = csdl; Initial Catalog = csdl; Integrated Security = true;";
+        static string strKetNoi = @"Data Source  = .; Initial Catalog = csdl; Integrated Security = true;";
 
         public static SqlConnection TaoKetNoi()
         {
             SqlConnection con = new SqlConnection(strKetNoi);
             con.Open();
+            //MessageBox.Show("da ket noi csdl");
             return con;
         }
         public static SqlDataReader TruyVanDuLieu(string strTruyVan, SqlConnection conn)
