@@ -3,3 +3,8 @@ G:\DoAnLTWNC\DoAnQLKaraoke\DoAnQLKaraokeDTO\bin\Debug\DoAnQLKaraokeDTO.pdb
 G:\DoAnLTWNC\DoAnQLKaraoke\DoAnQLKaraokeDTO\obj\Debug\DoAnQLKaraokeDTO.dll
 G:\DoAnLTWNC\DoAnQLKaraoke\DoAnQLKaraokeDTO\obj\Debug\DoAnQLKaraokeDTO.pdb
 G:\DoAnLTWNC\DoAnQLKaraoke\DoAnQLKaraokeDTO\obj\Debug\DoAnQLKaraokeDTO.csprojResolveAssemblyReference.cache
+E:\LTWNC\DoAnQLKaraoke\DoAnQLKaraokeDTO\bin\Debug\DoAnQLKaraokeDTO.dll
+E:\LTWNC\DoAnQLKaraoke\DoAnQLKaraokeDTO\bin\Debug\DoAnQLKaraokeDTO.pdb
+E:\LTWNC\DoAnQLKaraoke\DoAnQLKaraokeDTO\obj\Debug\DoAnQLKaraokeDTO.csprojResolveAssemblyReference.cache
+E:\LTWNC\DoAnQLKaraoke\DoAnQLKaraokeDTO\obj\Debug\DoAnQLKaraokeDTO.dll
+E:\LTWNC\DoAnQLKaraoke\DoAnQLKaraokeDTO\obj\Debug\DoAnQLKaraokeDTO.pdb

@@ -7,11 +7,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DoAnQLKaraokeDTO;
+using DoAnQLKaraokeBUS;
 
 namespace DoAnQLKaraoke
 {
     public partial class FrmChinh : Form
     {
+        FrmDangNhap dn;
         FrmQLNhanVien f1;
         FrmQLTaiKhoan f2;
         FrmQLLSuKhachHang f3;
@@ -19,7 +22,8 @@ namespace DoAnQLKaraoke
         FrmQLPhong f5;
         FrmChonBaoCao f6;
         FrmQLLoaiNhanVien f7;
-        
+        public bool isDangNhap;
+        public TaiKhoanDTO nvDangNhap;
         public FrmChinh()
         {
             InitializeComponent();
@@ -82,6 +86,16 @@ namespace DoAnQLKaraoke
             f7.MdiParent = this;
             f7.Dock = DockStyle.Fill;
             f7.Show();
+        }
+
+        private void FrmChinh_Load(object sender, EventArgs e)
+        {
+            
+            FrmDangNhap fdn = new FrmDangNhap();
+            fdn.MdiParent = this;
+            fdn.Dock = DockStyle.Fill;
+            fdn.Show();
+
         }
     }
 }

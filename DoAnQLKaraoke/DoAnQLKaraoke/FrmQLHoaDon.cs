@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace DoAnQLKaraoke
 {
-    public partial class FormQLHoaDon : Form
+    public partial class FrmQLHoaDon : Form
     {
-        public FormQLHoaDon()
+        public FrmQLHoaDon()
         {
             InitializeComponent();
         }
