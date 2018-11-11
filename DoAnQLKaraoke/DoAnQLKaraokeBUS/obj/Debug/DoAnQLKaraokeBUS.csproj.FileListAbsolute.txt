@@ -1,0 +1,9 @@
+G:\LTWNC-master\DoAnQLKaraoke\DoAnQLKaraokeBUS\bin\Debug\DoAnQLKaraokeBUS.dll
+G:\LTWNC-master\DoAnQLKaraoke\DoAnQLKaraokeBUS\bin\Debug\DoAnQLKaraokeBUS.pdb
+G:\LTWNC-master\DoAnQLKaraoke\DoAnQLKaraokeBUS\bin\Debug\DoAnQLKaraokeDAO.dll
+G:\LTWNC-master\DoAnQLKaraoke\DoAnQLKaraokeBUS\bin\Debug\DoAnQLKaraokeDTO.dll
+G:\LTWNC-master\DoAnQLKaraoke\DoAnQLKaraokeBUS\bin\Debug\DoAnQLKaraokeDAO.pdb
+G:\LTWNC-master\DoAnQLKaraoke\DoAnQLKaraokeBUS\bin\Debug\DoAnQLKaraokeDTO.pdb
+G:\LTWNC-master\DoAnQLKaraoke\DoAnQLKaraokeBUS\obj\Debug\DoAnQLKaraokeBUS.csprojResolveAssemblyReference.cache
+G:\LTWNC-master\DoAnQLKaraoke\DoAnQLKaraokeBUS\obj\Debug\DoAnQLKaraokeBUS.dll
+G:\LTWNC-master\DoAnQLKaraoke\DoAnQLKaraokeBUS\obj\Debug\DoAnQLKaraokeBUS.pdb
